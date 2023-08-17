@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prabad06
 - 👀 I’m interested in fish and chips
-- 🌱 I’m currently learning .net and JS
+- 🌱 I’m currently learning c#
 - 📫 sharmaprabhat614@gmail.com
 
 <!---
